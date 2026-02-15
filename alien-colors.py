@@ -1,4 +1,4 @@
-alien_color = "green"
+alien_color = "yellow"
 
 if alien_color == "green":
     print("Congratulations! You just earned 5 points.")
