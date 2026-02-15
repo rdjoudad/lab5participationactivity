@@ -1,4 +1,4 @@
-alien_color = "magenta"
+alien_color = "neon blue"
 
 if alien_color == "green":
     print("Congratulations! You just earned 5 points.")
@@ -6,5 +6,4 @@ elif alien_color == "yellow":
     print("Congratulations! You just earned 10 points.")
 elif alien_color == "red":
     print("Congratulations! You just earned 15 points.")
-else: 
-    print("Points undetermined.")
+else: print("Points undetermined.")
